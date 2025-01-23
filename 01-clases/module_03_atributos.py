@@ -6,8 +6,6 @@ class libros:
         self.disponible = disponible
 
 
-
-
 mi_primer_libro = libros("STEELHART","Neil Marcus","RD-341DS","no")
 mi_segundo_libro = libros("IA","steve carl","fr-3454DA","si")
 
