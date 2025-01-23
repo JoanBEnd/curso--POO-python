@@ -1,0 +1,15 @@
+
+#La POO es un paradigma de programación que organiza el código de manera lógica y estructurada, facilitando su mantenimiento, escalabilidad y reutilización. 
+#Se basa en el uso de clases  y objetos, los cuales modelan elementos del mundo real o del problema que se desea resolver.
+#A continuación, te muestro los principios y conceptos clave de la POO:
+
+#1 Clases
+#2 Objetos
+#3 Atributos
+#4 Métodos
+#5 Encapsulamiento
+#6 Abstracción
+#7 Herencia
+#8 Polimorfismo
+#Clases:
+#
