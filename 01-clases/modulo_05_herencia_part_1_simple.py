@@ -1,7 +1,7 @@
 
 #Herencia: le permite heredar a la clase hija los atributos y metodos que tiene una clase padre
 #En este caso veremos un tipo de herencia, Herencia Simple.
-
+#Gráfica
 #                                            ---------------
 #                                                persona
 #                                            ---------------

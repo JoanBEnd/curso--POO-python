@@ -1,5 +1,15 @@
 #La herencia multiple, es un poco más compleja, pero nos permite a que una clase hija
 #pueda heredar metodos y atributos a más de una clase padre.
+#Gráfica
+#                             --------------------                       ------------- 
+#                                  persona                                Programador
+#                            ---------------------                      --------------
+#                                    |                                         |                          
+#                                    ------------------------------------------
+#                                                       |                                    
+#                                             -------------------
+#                                             EmpleadoProgramador   
+#                                             ------------------
 
 class Persona:
     def __init__(self, nombre, apellidos, edad, genero):

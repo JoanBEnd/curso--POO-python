@@ -1,5 +1,5 @@
 #herencia jerarquica:
-
+#Gráfica
 #                                               --------------------
 #                                                    persona
 #                                             ---------------------

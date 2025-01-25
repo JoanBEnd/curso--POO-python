@@ -7,9 +7,9 @@
 #2 Objetos
 #3 Atributos
 #4 Métodos
-#5 Encapsulamiento
-#6 Abstracción
-#7 Herencia
+#5 Herencia
+#6 Encapsulamiento
+#7 Abstracción
 #8 Polimorfismo
 #Clases:
 #
