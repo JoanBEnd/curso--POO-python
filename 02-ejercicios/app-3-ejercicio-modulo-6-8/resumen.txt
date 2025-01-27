@@ -1,0 +1,28 @@
+Aquí tienes un resumen de cómo lo cumple:
+
+1. Encapsulamiento:
+
+precio, cantidad e impuesto están definidos como atributos privados (__precio, __cantidad, __impuesto).
+Se accede y modifica estos atributos mediante los getters y setters, implementados con decoradores.
+
+2. Getter y Setter:
+
+Los decoradores @property y @setter se usan para precio y cantidad, permitiendo controlar cómo se accede y modifica su valor.
+Por ejemplo, puedes actualizar precio y recalcular el total en consecuencia.
+
+3. Herencia:
+
+La clase base Facturacion es heredada por tres subclases: Productos_Fisicos, Productos_Digitales y Suscripciones.
+Estas subclases sobrescriben el método mostrar_detalle según sus necesidades.
+
+4. Polimorfismo:
+
+Las subclases (Productos_Fisicos, Productos_Digitales, Suscripciones) tienen un método mostrar_detalle con el mismo nombre, pero con su propia implementación.
+
+5. Métodos y lógica:
+
+La clase base incluye un método calcular_total que es usado por las subclases para calcular el costo total, integrando lógica común en un solo lugar.
+Modificación de atributos privados:
+
+Se prueba cómo se actualiza el atributo privado precio mediante el setter y cómo esto afecta el cálculo del total.
+
